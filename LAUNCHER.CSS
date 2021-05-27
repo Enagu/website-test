@@ -1,0 +1,13 @@
+body {
+    color: #765432;
+}
+
+.header {
+    background-color: #fef;
+}
+
+footer {
+    background-color: #765432;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
